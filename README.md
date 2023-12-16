@@ -1,8 +1,9 @@
 # `Rex-std`
 The standard library for `Rex`
 
-# ! In Early Development
-Implementation of `Rex` has just started, so it is not usable yet.  
+[![License: APACHE](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) |
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-# License
-`Rex` is distributed under the terms of both the MIT license and the Apache License (Version 2.0).
+[Repositories](https://www.github.com/rexlang/rex)
+
+[Read the docs](https://www.rexlang.org)
